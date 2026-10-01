@@ -85,7 +85,7 @@ A GPU with CUDA support is recommended for faster training, although CPU trainin
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/abdulkiqh-oss/gpt2-pdf-finetuning.git
 cd gpt2-project
 ```
 
