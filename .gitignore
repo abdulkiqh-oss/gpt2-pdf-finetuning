@@ -1,0 +1,6 @@
+venv/
+gpt2-full-model/
+llama.cpp/
+document.pdf
+gpt2/
+gpt2-model.gguf
